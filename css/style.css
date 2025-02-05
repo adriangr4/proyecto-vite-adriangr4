@@ -56,3 +56,6 @@ body {
   #contacto a:hover {
     color: #00bcd4;
   }
+  header{
+    background-color: blue;
+  }
